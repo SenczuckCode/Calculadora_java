@@ -2,7 +2,7 @@
 .calculadora{
     width: 450px;
     height: 450px;
-    background-color: blueviolet;
+    background-color: rgb(30, 15, 44);
     position: relative;
     top: 100px;
     left: 720px;
@@ -30,5 +30,6 @@
 
 button {
     padding: 20px;
-    background-color: rgb(255, 253, 163);
+    background-color: rgb(255, 133, 133);
+    border-radius: 150px;
 }
